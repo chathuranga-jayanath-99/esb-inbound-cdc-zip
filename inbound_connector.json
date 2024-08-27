@@ -72,7 +72,7 @@
           "type":"inbound-endpoint",
           "version":"1.0.0",
           "rank":3,
-          "download_url":"https://github.com/chathuranga-jayanath-99/esb-inbound-cdc-zip/blob/main/esb-inbound-cdc.zip",
+          "download_url":"https://github.com/chathuranga-jayanath-99/esb-inbound-cdc-zip/raw/main/esb-inbound-cdc.zip",
           "description":"WSO2 Listner Connector for CDC",
           "icon":"amazonsqs-inbound.gif",
           "icon_url":"https://mi-connectors.wso2.com/icons/amazonsqs-inbound.gif"
